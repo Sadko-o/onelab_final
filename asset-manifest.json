@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oneLab_Final_Project/static/css/main.d42e6196.css",
+    "main.js": "/oneLab_Final_Project/static/js/main.0419c2cb.js",
+    "static/js/453.b3516575.chunk.js": "/oneLab_Final_Project/static/js/453.b3516575.chunk.js",
+    "index.html": "/oneLab_Final_Project/index.html",
+    "main.d42e6196.css.map": "/oneLab_Final_Project/static/css/main.d42e6196.css.map",
+    "main.0419c2cb.js.map": "/oneLab_Final_Project/static/js/main.0419c2cb.js.map",
+    "453.b3516575.chunk.js.map": "/oneLab_Final_Project/static/js/453.b3516575.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42e6196.css",
+    "static/js/main.0419c2cb.js"
+  ]
+}
